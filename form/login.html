@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Login</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- MATERIAL DESIGN ICONIC FONT -->
+		<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+		<!-- STYLE CSS -->
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="shortcut icon" type="image/jpg" href="/iWash/images/favicon/iWash-png.png"/>
+	</head>
+
+	<body>
+		
+
+		<div class="wrapper" style="background-color: black; align-items:initial;">
+			<div>
+				<button onclick="location.href = '../index.html';" id="myButton" class="float-left submit-button" >Home</button>
+			</div>
+		
+			<div class="inner">
+				<div class="image-holder">
+					<img src="/iWash/images/iWash-jpg.jpg" alt="Logo iWash">
+				</div>
+				<form action="/iWash/index.html">
+					<div class="form-wrapper">
+						<input type="text" placeholder="E-mail" class="form-control">
+						<i class="zmdi zmdi-email"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="password" placeholder="Senha" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<button type="submit" formaction="./services.html">Login
+						<i class="zmdi zmdi-arrow-right"></i>
+					</button>
+
+					<h3>Registre-se abaixo!</h3>
+					<div class="form-wrapper">
+						<input type="text" placeholder="Nome completo" class="form-control">
+					<div class="form-wrapper">
+						<input type="text" placeholder="E-mail" class="form-control">
+						<i class="zmdi zmdi-email"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="password" placeholder="Senha" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="password" placeholder="Confirme a senha" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<div class="form-wrapper">
+						<select name="" id="" class="form-control">
+							<option value="" disabled selected>Eu sou</option>
+							<option value="user">Cliente</option>
+							<option value="business">Empresa</option>
+						</select>
+						<i class="zmdi zmdi-caret-down" style="font-size: 17px"></i>
+					</div>
+					<button type="submit" formaction="./register.html">Registrar
+						<i class="zmdi zmdi-arrow-right" ></i>
+					</button>
+				</form>
+			</div>
+		</div>
+		
+	</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
