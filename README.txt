@@ -1,5 +1,29 @@
-Free Site License:
+PROJETO DO CURSO DA FACULDADE DE TECNOLOGIA DE SÃO PAULO
+
 ------------------
+
+VAGNER CRUZ 	17200731
+LUCIANE NAGAY 	19100682
+ERICH FRATINI 	18215695
+ELIEL TEIXEIRA	15200779
+GABRIEL CORA	18210797
+EMERSON SILVA 	19115907
+
+------------------
+
+
+
+------------------
+
+
+
+
+
+
+
+
+
+
 
 CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
  - You can use our templates for both personal and commercial projects. 
@@ -22,3 +46,8 @@ Credits :
 => Fonts : https://www.google.com/fonts
 => Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
 => Carousel : http://owlgraphic.com/owlcarousel/
+
+
+
+
+
